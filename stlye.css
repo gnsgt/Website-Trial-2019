@@ -1,0 +1,461 @@
+@charset "utf-8";
+/* CSS Document */
+
+.menu{width: 2050px;height: 750px;	background-color: black;
+	opacity: 0.7;
+	z-index: 1;
+	position: absolute;
+}
+.resim{
+	
+	z-index: -1;
+	position: absolute;
+}
+.logo{
+	
+	z-index: 2;
+	position: absolute;
+	left: 350px;
+}
+.yazi1{
+	
+	z-index: 3;
+	position: absolute;
+	left:1000px;
+	top:40px;
+	color: white;
+	font-size: 20px;
+}
+.yazi2{
+	
+	z-index: 3;
+	position: absolute;
+	left:1100px;
+	top:40px;
+	color: white;
+	font-size: 20px;
+}
+.yazi3{z-index: 3;
+	position: absolute;
+	left:1200px;
+	top:40px;
+	color: white;
+	font-size: 20px;
+}
+.yazi4{z-index: 3;
+	position: absolute;
+	left:1300px;
+	top:40px;
+	color: white;
+	font-size: 20px;
+}
+.yazi5{
+	
+	z-index: 3;
+	position: absolute;
+	left:1425px;
+	top:40px;
+	color: white;
+	font-size: 20px;
+}
+.menu2{width: 2050px;
+	height: 360px;
+	background-color: white;
+	z-index: 1;
+	position: absolute;
+	top: 750px;
+}
+.menu3{width: 2050px;
+	height: 340px;
+	background-color: #26C9FF;
+	opacity: 0.4;
+	z-index: 1;
+	position: absolute;
+	top: 1200px;
+}
+.menu4{width: 2050px;
+	height: 360px;
+	background-color: white;
+	z-index: 1;
+	position: absolute;
+	top: 1540px;
+}
+.yuzde{
+	
+	z-index: 3;
+	position: absolute;
+	left:600px;
+	top: -120px;
+}
+.yuzdee{
+	
+	z-index: 2;
+	position: absolute;
+	left:850px;
+	top: -120px;
+
+}
+.yuzdeee{
+	
+	z-index: 1;
+	position: absolute;
+	left:1100px;
+	top: -120px;
+
+}
+.yazi6{
+	color: black;
+	font-size:20px;
+	position: absolute;
+	top: 250px;
+	left: 700px}
+.yazi7{	color: black;
+	font-size:20px;
+	position: absolute;
+	top: 250px;
+	left: 950px}
+.yazi8{
+	color: black;
+	font-size:20px;
+	position: absolute;
+	top: 250px;
+	left: 1250px}
+.kutu1{background-color:white;
+height: 390px;
+	width: 250px;
+	position: absolute;
+	left: 400px;
+	top: 25px;
+	border:1px solid #000000;
+	
+}
+.yazi9{ 
+	position: absolute;
+	color: black;
+font-family: 'Raleway', sans-serif;
+top:180px;
+font-size:15px; }
+.yazi13{
+	font-size:10px;
+	top: 210px;
+	position: absolute;
+	
+}
+.kutu2{background-color:white;height: 390px;
+	width: 250px;
+	left: 700px;
+	position: absolute;
+	top: 25px;
+	border:1px solid #000000;
+}
+.yazi10{ position: absolute;
+	color: black;
+font-family: 'Raleway', sans-serif;
+top:180px;
+font-size:15px; }
+.yazi14{
+	font-size:10px;
+	top: 210px;
+	position: absolute;
+	
+}
+.kutu3{background-color: white;
+height: 390px;
+	width: 250px;
+	left: 1000px;
+	position: absolute;
+	top: 25px;
+	border:1px solid #000000;
+}
+.yazi11{ 
+	position: absolute;
+	color: black;
+font-family: 'Raleway', sans-serif;
+top:180px;
+font-size:15px; }
+.yazi15{font-size:10px;
+	top: 210px;
+	position: absolute;
+	}
+.kutu4{background-color:white;
+height: 390px;
+	width: 250px;
+	left: 1300px;
+	position: absolute;
+	top: 25px;
+	border:1px solid #000000;
+}
+.yazi12{ 
+	position: absolute;
+	color: black;
+font-family: 'Raleway', sans-serif;
+top:180px;
+font-size:15px; }
+.yazi16{
+	font-size:10px;
+	top: 210px;
+	position: absolute;
+	
+}
+.more{top: 300px;
+position: absolute;
+	left: 90px;
+}
+.more2{top: 300px;
+position: absolute;
+	left: 90px;
+}
+.more3{top: 300px;
+position: absolute;
+	left: 90px;
+}
+.more4{top: 300px;
+position: absolute;
+	left: 90px;
+}
+.aw-zoom{
+    position: relative;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;}
+.aw-zoom:hover{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.5);
+}
+a{color: white;}
+a:hover{color: red;}
+.menu5{width: 2050px;
+	height: 400px;
+	background-color: white;
+	z-index: 1;
+	position: absolute;
+	top: 2000px;}
+.cizgi1{position: absolute;top: 200px;}
+.cizgi2{position: absolute;
+top: 200px;
+left: 1530px;}
+.tarih1{ position: absolute;
+top: 100px;
+left: 550px;}
+.tarih2{ position: absolute;
+top: 100px;
+left: 1000px;}
+.kutu5{
+	background-color:white;
+height: 250px;
+	width: 350px;
+	
+	position: absolute;
+	top:0px;
+	left: -350px;
+	}	
+.kutu6{
+	background-color:white;
+height: 250px;
+	width: 350px;
+	
+	position: absolute;
+	top:0px;
+	left: 120px;}
+.yazi17{
+	color: #505050;
+	font-weight: 900;
+}
+.yazi18{
+	color: #505050;
+	font-weight: 900;
+}
+.yazi19{
+	color: #505050;
+	font-weight: 50;
+	font-size: 10px;
+}
+.yazi20{
+	color: #505050;
+	font-weight: 50;
+	font-size: 10px;
+}
+
+.menu6{width: 2050px;
+	height: 400px;
+	background-color: #3FAC44;
+	z-index: 0;
+	position: absolute;
+	top: 300px;
+left: -1000px;}
+.resim3{-webkit-filter: blur(5px); filter: blur(5px);}
+.cizgi3{z-index: 5;
+position: absolute;
+top: 50px;
+left:375px;}
+.cizgi4{z-index: 5;
+position: absolute;
+top: 50px;
+left:375px;}
+.cizgi5{z-index: 5;
+position: absolute;
+top: 70px;
+left:0px;}
+.tırnakk{z-index: 6;
+position: absolute;
+top:45px;
+left: 950px;}
+.yazi21{ 
+font-size: 32px;
+color: white;
+position: absolute;
+	z-index: 7;
+	
+	top: 180px;
+	left: 550px;
+	
+}
+.cizgi6{z-index: 5;
+position: absolute;
+top: 290px;
+left:500px;}
+.menu7{width: 2050px;
+	height: 400px;
+	background-color: black;
+	z-index: 1;
+	position: absolute;
+	top: 700px;
+left: -1000px;}
+.yazi22{
+	color: white;
+	font-weight:600;
+	font-size: 20px;
+	position: absolute;
+	z-index: 2;
+	top: 50px;
+	left: 700px;
+}
+.yazi23{
+	color:white;
+	font-weight: 50;
+	font-size: 20px;
+	position: absolute;
+	z-index: 2;
+	top: 50px;
+	left: 850px;
+}
+.yazi24{
+	color: white;
+	font-weight: 50;
+	font-size: 20px;
+	position: absolute;
+	z-index: 2;
+	top: 50px;
+	left: 1000px
+}
+.yazi25{
+	color: white;
+	font-weight: 50;
+	font-size: 20px;
+	position: absolute;
+	z-index: 2;
+	top: 50px;
+	left: 1150px
+}
+.yazi26{
+	color: white;
+	font-weight: 50;
+	font-size: 20px;
+	position: absolute;
+	z-index: 2;
+	top: 50px;
+	left: 1300px
+}
+.cizgi7{z-index: 2;
+position: absolute;
+top: 120px;
+left:700px;
+color: white;}
+.yazi27{ 
+font-size: 18px;
+color: white;
+position: absolute;
+	z-index: 7;
+	
+	top: 230px;
+	left: 700px;}
+.yazi28{ 
+font-size: 12px;
+color: white;
+position: absolute;
+	z-index: 7;
+	
+	top: 270px;
+	left: 700px;}
+.sosyal{top:1000px;
+	left: 200px;
+	position: absolute;
+	z-index: 10;
+font-size:30px;
+	color: white;
+}
+.sosyal2{top:1000px;
+	left: 230px;
+	position: absolute;
+	z-index: 10;
+font-size:30px;
+	color: white;
+}
+.sosyal3{top:1000px;
+	left: 270px;
+	position: absolute;
+	z-index: 10;
+font-size:30px;
+	color: white;
+}
+.sosyal4{top:1000px;
+	left: 300px;
+	position: absolute;
+	z-index: 10;
+font-size:30px;
+	color: white;
+}
+.sosyal5{top:1000px;	left: 340px;
+	position: absolute;
+	z-index: 10;
+font-size:30px;
+	color: white;
+}
+.sosyal6{top:880px;	left: 300px;
+	position: absolute;
+	z-index: 10;
+font-size:50px;
+	color: white;}
+.menu8{width: 2050px;
+	height: 400px;
+	background-color: black;
+	z-index: 1;
+	position: absolute;
+	top: 1200px;
+left: 0px;}
+.menu9{width: 2050px;
+	height: 100px;
+	background-color: white;
+	z-index: 1;
+	position: absolute;
+	top: 1600px;
+left: 0px;}
+.yazi29{color: black;
+position: absolute;
+	top:60px;
+	left:350px;
+}
+.yazi30{color: black;
+position: absolute;
+	top:60px;
+	left:1250px;
+}
+
+		
